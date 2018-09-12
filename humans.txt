@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Reece reece@email.com @ReeceDigital
 
 # THANKS
 
